@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and networking
 - 🌱 I’m currently learning React JS and Django
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/developerrafi/
 
 <!---
 Radmehan/Radmehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
